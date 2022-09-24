@@ -12,13 +12,13 @@ npm install --global mocha @10.0.0
 (As of v10.0.0, Mocha requires Node.js v14.0.0 or newer)
 
 ## Run the app
-
+```{javascript}
 node server.js
-
+```
 ## Run the tests
-
+```{javascript}
 npm test
-
+```
 ## API
 
 #### /order
