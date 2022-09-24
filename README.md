@@ -8,6 +8,8 @@ npm install node @16.17.0
 
 npm install --global mocha @10.0.0
 
+npm install supertest @6.2.4
+
 ```
 (As of v10.0.0, Mocha requires Node.js v14.0.0 or newer)
 
