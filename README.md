@@ -3,9 +3,12 @@
 REST API for Yammie restaurant order management in Node.js.
 
 ## installation required
-npm install node @16.17.0 ()
-npm install --global mocha @10..0
+```{javascript}
+npm install node @16.17.0
 
+npm install --global mocha @10.0.0
+
+```
 (As of v10.0.0, Mocha requires Node.js v14.0.0 or newer)
 
 ## Run the app
