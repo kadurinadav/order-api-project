@@ -20,11 +20,13 @@ npm test
 example of json order object to send in body of request (all fields required):
 
 ```{json}
+{
     "customer_name": "Nadav kaduri",
     "phone-number": "0525673576", 
     "email": "nadav@gmail.com", 
     "address": "tchernichovsky 6/5, beer sheva", 
     "items": ["fries","burger","steak","lemonade"] 
+}
 ```
 
 #### /orders/:id
@@ -35,11 +37,13 @@ example of json order object to send in body of request (all fields required):
 example of json order object to send in body of request (all fields required):
 
 ```{json}
+{
     "customer_name": "Nadav kaduri",
     "phone-number": "0525673576", 
     "email": "nadav@gmail.com", 
     "address": "tchernichovsky 6/5, beer sheva", 
     "items": ["fries","burger","steak","orange-juice"] 
+}
 ```
 
 * `DELETE` : Delete an order with specific id
